@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: darkblue;
+  text-align: center;
+}
+
+
+
+img {
+  margin: 10px;
+  width: 200px;
+  margin-top: 250px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  border: 5px solid lightblue; /* Obramowanie */
+}

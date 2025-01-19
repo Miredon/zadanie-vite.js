@@ -1,0 +1,36 @@
+
+#baner {
+  width: 100%px;
+  height: 100px;
+  background-color: green;
+}
+
+#lewy {
+  width: 100px;
+  height: 1050px;
+  background-color: yellowgreen;
+  float: left;
+
+}
+
+#content {
+  width: 1647px;
+  height: 1050px;
+  background-color: lightgreen;
+  float: left;
+}
+
+#prawy {
+  width: 100px;
+  height: 1050px;
+  background-color: yellowgreen;
+  float: left;
+}
+
+#stopka {
+  height: 120px;
+  width: 100%;
+  background-color: darkblue;
+  float: left;
+
+}
